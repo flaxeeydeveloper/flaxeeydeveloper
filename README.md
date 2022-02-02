@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Flaxeey
+
+### 💻 | Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30"/><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 
 ![Flaxeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxeeydeveloper&show_icons=true&theme=dark)
