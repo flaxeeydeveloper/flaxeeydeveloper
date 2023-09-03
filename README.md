@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**flaxeeydeveloper/flaxeeydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conhecido por flaxeey, tenho 15 anos e sou um entusiasta de programação. Atualmente, estou focado em desenvolvimento web, com ênfase em JavaScript e TypeScript. Aqui está um pouco sobre mim:
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que eu amo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Linguagens**: JavaScript, TypeScript
+- 🌐 **Tecnologias Web**: Node.js, Express.js
+- 🛢️ **Bancos de Dados**: PostgreSQL, MySQL
+- 🛠️ **Ferramentas**: Prisma.io, VS Code
+
+## 📚 Estudando
+- 💻 **Linguagens**: Python, Golang.
+
+## 💼 Projetos:
+- [Noduino](https://github.com/flaxeeydeveloper/Noduino): Faça requisições http/https no arduino usando node.
+- [AmethystCloud](https://amethystcloud.com.br): Serviço Cloud. (INDISPONIVEL)
+
+## 🤝 Vamos Conectar!
+
+Estou sempre aberto a colaborações e a aprender com outros desenvolvedores. Se você quiser entrar em contato comigo, fique à vontade para me encontrar no Discord @flaxeeydeveloper.
+
+Obrigado por conferir meu perfil no GitHub. Espero que você encontre algo interessante aqui. Vamos nos conectar, aprender e crescer juntos no mundo da programação! 🚀
+
+## 📆 Minhas estatísticas do GitHub
+![flaxeeydeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxeeydeveloper&show_icons=true&theme=dracula)
