@@ -2,12 +2,14 @@
 
 Conhecido por flaxeey, tenho 15 anos e sou um entusiasta de programação. Atualmente, estou focado em desenvolvimento web, com ênfase em JavaScript e TypeScript. Aqui está um pouco sobre mim:
 
+`I ❤ Linux`
+
 ## 🚀 Tecnologias que eu amo:
 
 - 💻 **Linguagens**: JavaScript, TypeScript
 - 🌐 **Tecnologias Web**: Node.js, Express.js
 - 🛢️ **Bancos de Dados**: PostgreSQL, MySQL
-- 🛠️ **Ferramentas**: Prisma.io, VS Code
+- 🛠️ **Ferramentas**: Prisma.io, VS Code, Linux
 
 ## 📚 Estudando
 - 💻 **Linguagens**: Python, Golang.
