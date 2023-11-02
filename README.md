@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Conhecido por flaxeey, tenho 15 anos e sou um entusiasta de programação. Atualmente, estou focado em desenvolvimento web, com ênfase em JavaScript e TypeScript. Aqui está um pouco sobre mim:
+Conhecido por flaxeey, tenho 16 anos e sou um entusiasta de programação. Atualmente, estou focado em desenvolvimento web, com ênfase em JavaScript e TypeScript. Aqui está um pouco sobre mim:
 
 `I ❤ Linux`
 
@@ -27,3 +27,10 @@ Obrigado por conferir meu perfil no GitHub. Espero que você encontre algo inter
 
 ## 📆 Minhas estatísticas do GitHub
 ![flaxeeydeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxeeydeveloper&show_icons=true&theme=dracula)
+
+## 💻 Especificações do meu computador
+- Xeon E5 2650 v3
+- 16gb DDR4 (2x8, 2666)
+- SSD NVME 512gb
+- HDD 1000gb (7200rpm)
+- RX 470 / GTX 750Ti
