@@ -17,7 +17,7 @@ Conhecido por flaxeey, tenho 16 anos e sou um entusiasta de programação. Atual
 ## 💼 Projetos:
 - [Noduino](https://github.com/flaxeeydeveloper/Noduino): Faça requisições http/https no arduino usando node.
 - [AmethystCloud](https://amethystcloud.com.br): Serviço Cloud. (INDISPONIVEL)
-- [DreemyChampionsRoleplay](https://discord.gg/tDG9nRs8rm): [Adicione agora](https://discord.com/oauth2/authorize?client_id=1130550766864715786&scope=bot&permissions=27648860222)
+- [DreemyCards](https://discord.gg/tDG9nRs8rm): [Adicione agora](https://discord.com/oauth2/authorize?client_id=1130550766864715786&scope=bot&permissions=27648860222)
 
 ## 🤝 Vamos Conectar!
 
