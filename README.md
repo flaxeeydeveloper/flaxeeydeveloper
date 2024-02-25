@@ -12,11 +12,12 @@ Conhecido por flaxeey, tenho 16 anos e sou um entusiasta de programação. Atual
 - 🛠️ **Ferramentas**: Prisma.io, VS Code, Linux
 
 ## 📚 Estudando
-- 💻 **Linguagens**: Python, Golang.
+- 💻 **Linguagens**: Python
 
 ## 💼 Projetos:
 - [Noduino](https://github.com/flaxeeydeveloper/Noduino): Faça requisições http/https no arduino usando node.
 - [AmethystCloud](https://amethystcloud.com.br): Serviço Cloud. (INDISPONIVEL)
+- [Azura](https://github.com/Azura-Development/Azura): Azura - Discord BOT (INDISPONIVEL)
 
 
 ## 🤝 Vamos Conectar!
