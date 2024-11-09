@@ -30,8 +30,8 @@ Obrigado por conferir meu perfil no GitHub. Espero que você encontre algo inter
 ![flaxeeydeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxeeydeveloper&show_icons=true&theme=dracula)
 
 ## 💻 Especificações do meu computador
-- Xeon E5 2650 v3
-- 16gb DDR4 (2x8, 2666)
-- SSD NVME 512gb
+- Xeon E5 2666 v3
+- 24gb DDR4 (3x8, 2666)
+- SSD NVME 256gb | SSD 480gb
 - HDD 1000gb (7200rpm)
-- RX 470 / GTX 750Ti
+- GTX 1650
