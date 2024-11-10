@@ -31,7 +31,7 @@ Obrigado por conferir meu perfil no GitHub. Espero que você encontre algo inter
 
 ## 💻 Especificações do meu computador
 - Xeon E5 2666 v3
-- 24gb DDR4 (3x8, 2666)
+- 24gb DDR4 (3x8, 3200Mhz)
 - SSD NVME 256gb | SSD 480gb
 - HDD 1000gb (7200rpm)
 - GTX 1650
