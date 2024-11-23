@@ -1,37 +1,47 @@
-# Olá! 👋
+# Olá! Eu sou o **flaxeey** 👋
 
-Conhecido por flaxeey, tenho 16 anos e sou um entusiasta de programação. Atualmente, estou focado em desenvolvimento web, com ênfase em JavaScript e TypeScript. Aqui está um pouco sobre mim:
+Tenho **17 anos** e sou apaixonado por programação. Atualmente, estou focado em **desenvolvimento web** com **JavaScript** e **TypeScript**.
 
 `I ❤ Linux`
 
-## 🚀 Tecnologias que eu amo:
+---
 
-- 💻 **Linguagens**: JavaScript, TypeScript
-- 🌐 **Tecnologias Web**: Node.js, Express.js
-- 🛢️ **Bancos de Dados**: PostgreSQL, MySQL
-- 🛠️ **Ferramentas**: Prisma.io, VS Code, Linux
+## 🚀 Tecnologias que eu adoro
 
-## 📚 Estudando
-- 💻 **Linguagens**: Python
+- 💻 **Linguagens**: JavaScript, TypeScript  
+- 🌐 **Tecnologias Web**: Node.js, Express.js  
+- 🛢️ **Bancos de Dados**: PostgreSQL, MySQL  
+- 🛠️ **Ferramentas**: Prisma.io, VS Code, Linux  
 
-## 💼 Projetos:
-- [Noduino](https://github.com/flaxeeydeveloper/Noduino): Faça requisições http/https no arduino usando node.
-- [AmethystCloud](https://amethystcloud.com.br): Serviço Cloud. (INDISPONIVEL)
-- [Azura](https://github.com/Azura-Development/Azura): Azura - Discord BOT (INDISPONIVEL)
+---
 
+## 📚 O que estou estudando
 
-## 🤝 Vamos Conectar!
+- 💻 **Linguagens**: Python  
 
-Estou sempre aberto a colaborações e a aprender com outros desenvolvedores. Se você quiser entrar em contato comigo, fique à vontade para me encontrar no Discord @flaxeeydeveloper.
+---
 
-Obrigado por conferir meu perfil no GitHub. Espero que você encontre algo interessante aqui. Vamos nos conectar, aprender e crescer juntos no mundo da programação! 🚀
+## 💥 Em que estou trabalhando
 
-## 📆 Minhas estatísticas do GitHub
+Atualmente, estou desenvolvendo o **Galactrix**.
+
+---
+
+## 🤝 Vamos nos conectar!
+
+Estou sempre aberto a novas **colaborações** e trocas de conhecimentos. Se você quiser conversar, aprender junto ou colaborar, é só me chamar no **Discord**: **@flaxeeydeveloper**.
+
+Obrigado por visitar meu perfil no GitHub! Vamos juntos aprender e evoluir no mundo da programação! 🚀
+
+---
+
+## 📊 Minhas estatísticas do GitHub
+
 ![flaxeeydeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxeeydeveloper&show_icons=true&theme=dracula)
 
-## 💻 Especificações do meu computador
-- Xeon E5 2666 v3
-- 24gb DDR4 (3x8, 3200Mhz)
-- SSD NVME 256gb | SSD 480gb
-- HDD 1000gb (7200rpm)
-- GTX 1650
+## 🖥️ Meu setup
+
+- **Processador**: Xeon E5 2666 v3  
+- **Memória**: 32GB DDR4 (4x8, 3200Mhz)  
+- **Armazenamento**: SSD NVME 256GB | SSD SATA 480GB | HDD 1000GB (7200rpm)  
+- **Placa de Vídeo**: GTX 1650
