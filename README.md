@@ -1,6 +1,6 @@
 # Olá! Eu sou o **flaxeey** 👋
 
-Tenho **17 anos** e sou apaixonado por programação. Atualmente, estou focado em **desenvolvimento web** com **JavaScript** e **TypeScript**.
+Tenho **17 anos** e sou apaixonado por programação. Atualmente, estou focado em **desenvolvimento** com **JavaScript** e **TypeScript**.
 
 `I ❤ Linux`
 
